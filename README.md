@@ -32,7 +32,7 @@
 
 <img src="https://media.discordapp.net/attachments/1113588704657809548/1115013694632509580/Screenshot_2023-06-04_162509.png?width=972&height=510" alt="Image of product">
 
-### The tool has all the features you need to fully destroy a webhook.  
+### The tool has the feature to send messages as a webhook.  
 
 + Webhook Message
 
