@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/crxel/rats-webhook-spammer
+git clone https://github.com/crxel/discord-webhook-client
 ```
 or you can also press the "Code" button and press the "Download ZIP" button.
 
